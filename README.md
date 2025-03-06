@@ -41,7 +41,7 @@ Here are some of the projects I've worked on:
 3. **[Project 3: Blog Platform](https://github.com/your-github-username/blog-platform)**
    - A blogging platform using HTML, CSS, and JavaScript for a fast, static site experience.
 
-https://swiftshiped.com
+     https://swiftshiped.com
 
 ## 📞 Contact Me
 
